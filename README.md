@@ -88,7 +88,7 @@ The resulting summarized dataset provides a clearer view of **how urbanization i
 ## 🪜 **Overview of Results**
 - The final dataset consists of **200 records (year-level)** and a **summarized country-level dataset**.  
 - All variables were cleaned, standardized, and transformed for analysis.  
-- The data is now ready for **exploratory data analysis (EDA)** and vVisualization to uncover meaningful patterns between **urban growth** and **housing affordability**.
+- The data is now ready for **exploratory data analysis (EDA)** and Visualization to uncover meaningful patterns between **urban growth** and **housing affordability**.
 
 ---
 
